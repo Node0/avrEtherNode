@@ -1,0 +1,8 @@
+Please Note:
+
+Not all libraries included in this respository
+are actually utilized in the compiled runtime.
+
+The libraries (core & 3rd party) are included as such,
+so that a clear picture of the possible libraries and
+their versions is preserved for reference purposes.
